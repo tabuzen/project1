@@ -1,2 +1,6 @@
 # project1
 testing
+
+This is one of many side projects of mine... 
+Always fun to learn new things computer
+related. I am one big side project.....
